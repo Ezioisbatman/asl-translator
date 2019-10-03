@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\bhuta\\Desktop\\sl\\sign-language-new\\keras\\keras_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\bhuta\\Desktop\\sl\\sign-language-new\\keras\\keras_model.ckpt"
